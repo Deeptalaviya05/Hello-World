@@ -13,3 +13,7 @@ Hello! 👋 I am [Your Name], a BCA student.
 - Python
 - Java
 - Git & GitHub
+## Goals
+- Contribute to open-source projects  
+- Build real-world applications  
+- Improve problem-solving skills  
