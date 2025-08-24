@@ -17,3 +17,4 @@ Hello! 👋 I am [Your Name], a BCA student.
 - Contribute to open-source projects  
 - Build real-world applications  
 - Improve problem-solving skills  
+Update: Practicing commit and push using Git CLI.
