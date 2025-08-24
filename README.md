@@ -8,3 +8,8 @@ Hello! 👋 I am [Your Name], a BCA student.
 - Improve my coding skills in C, Python, and Java  
 - Work on real projects and collaborate with others  
 - Build a strong developer portfolio  
+## Skills
+- C Programming
+- Python
+- Java
+- Git & GitHub
